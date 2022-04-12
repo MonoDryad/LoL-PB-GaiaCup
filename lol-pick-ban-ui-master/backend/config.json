@@ -1,0 +1,22 @@
+{
+  "frontend": {
+    "scoreEnabled": true,
+    "spellsEnabled": false,
+    "coachesEnabled": true,
+    "blueTeam": {
+      "name": "Team Blue",
+      "score": "0/0",
+      "coach": "Coach Blue",
+      "color": "rgb(0,151,196)"
+    },
+    "redTeam": {
+      "name": "Team Red",
+      "score": "0/0",
+      "coach": "Coach Red",
+      "color": "#f0080f"
+    },
+    "patch": "12.6"
+  },
+  "contentPatch": "latest",
+  "contentCdn": "https://ddragon.leagueoflegends.com/cdn"
+}
